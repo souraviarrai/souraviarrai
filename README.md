@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Lightroom , RoR , Mobile Photography, Python**
 
-- 📫 How to reach me **souravdungbungra@gmail.com**
+- 📫 How to reach me **souravdungbungrai@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
