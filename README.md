@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **OneHub Plus**
 
-- 🌱 I’m currently learning **NEST.js**
+- 🌱 I want to learn **NEST.js**
 
-- 💬 Ask me about **Lightroom , RoR , Mobile Photography, Python**
+- 💬 Ask me about **Lightroom and Mobile Photography**
 
 - 📫 How to reach me **souravdungbungrai@gmail.com**
 
