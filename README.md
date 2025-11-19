@@ -28,5 +28,3 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=souraviarrai&theme=dracula&hide_border=false" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souraviarrai&theme=dracula&show_icons=true&hide_border=false&count_private=true" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souraviarrai&theme=dracula&show_icons=true&hide_border=false&layout=compact" /></p>
